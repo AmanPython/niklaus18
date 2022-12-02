@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 <!-- # Hello World, -->
 
+- 🔭 I’m currently working on [Python](https://github.com/python), [Django](https://github.com/django)
+- 🌱 I’m currently learning [System Design]()
+- 👯 I’m looking to collaborate on [Full Stack Development]() and [AWS Deployment]()
+- 🤔 I’m looking for help with [Machine Learning]()
+- 💬 Ask me about [Software Development]()
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-gora-93053362/)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 
+   - I love open source projects. Let's [collaborate](https://github.com/niklaus18).
+   - [Youtube](https://www.youtube.com/@amangora1745)
+
 
 
 
